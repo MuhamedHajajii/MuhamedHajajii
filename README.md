@@ -3,8 +3,6 @@
 <img width="400" alt="coding" align="right" src="https://cdn.codechef.com/images/home/coding_boy.svg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamedhajajii&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedhajajii" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muhamedhajajii" target="blank"><img src="https://img.shields.io/twitter/follow/muhamedhajajii?logo=twitter&style=for-the-badge" alt="muhamedhajajii" /></a> </p>
-
 - 🌱 I’m currently learning **Asp.Net Core**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/muhamed-hajajii/](https://www.linkedin.com/in/muhamed-hajajii/)
