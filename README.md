@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Asp.Net Core**
 
-- 📝 I regularly write articles on ## 🌐 Socials:
+- 📝 I regularly write articles on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-hajajii/) 
 
 - 💬 Ask me about **Angular 2+**
