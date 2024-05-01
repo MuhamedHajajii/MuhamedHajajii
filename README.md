@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Asp.Net Core**
 
+- 🎯 My Portfolio **https://muhamedhajajii.blog/**
+
 - 📝 I regularly write articles on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-hajajii/) 
 
