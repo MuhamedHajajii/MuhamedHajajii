@@ -25,7 +25,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a href="https://github.com/muhamedhajajii">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</a>
 
 ```typescript
 const muhamed = {
@@ -274,14 +276,16 @@ const muhamed = {
 
 <br/>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhamedhajajii&theme=dark&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=DD0031&currStreakLabel=DD0031&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak Stats" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamedhajajii&custom_title=Muhamed's%20Contribution%20Graph&bg_color=0D1117&color=DD0031&line=DD0031&point=FFFFFF&area_color=DD0031&area=true&hide_border=true&theme=react-dark" width="95%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamedhajajii&custom_title=Muhamed's%20Contribution%20Graph&bg_color=0D1117&color=DD0031&line=DD0031&point=FFFFFF&area_color=DD0031&area=true&hide_border=true&theme=react-dark" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamedhajajii&theme=radical" width="95%" alt="Contribution Details"/>
 </div>
 
 <br/>
@@ -292,24 +296,6 @@ const muhamed = {
   <img src="https://github-profile-trophy.vercel.app/?username=muhamedhajajii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%" alt="Trophy" />
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
 ---
 
 <br/>
@@ -319,6 +305,16 @@ const muhamed = {
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br/>
+
+## 😂 Random Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
 </div>
 
