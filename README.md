@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhamed%20Hajajii&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20with%20Angular%20%26%20TypeScript&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhamed%20Hajajii&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Elegant%20Solutions%20with%20Angular%20and%20TypeScript&descSize=20&descAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -290,6 +290,22 @@ const muhamed = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhamedhajajii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%" alt="Trophy" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
