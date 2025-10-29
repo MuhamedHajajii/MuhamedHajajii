@@ -14,9 +14,6 @@
 
 - 📫 How to reach me **Muhamedhajajii@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1Mmj1Fg21zcUZkQeq4txeW9xggJrTSnAt/view?usp=sharing" target="_blank">Know about my experiences (CV)</a>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
