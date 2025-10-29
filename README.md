@@ -18,14 +18,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```typescript
 const muhamed = {
@@ -100,9 +100,7 @@ const muhamed = {
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b26-4450-a07b-d0a68d53e9c5.gif" width="700">
-</div>
+---
 
 <br/>
 
@@ -127,9 +125,7 @@ const muhamed = {
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700">
-</div>
+---
 
 <br/>
 
@@ -265,23 +261,21 @@ const muhamed = {
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-</div>
+---
 
 <br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhamedhajajii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DD0031&icon_color=DD0031&text_color=C9D1D9&ring_color=DD0031"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedhajajii&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DD0031&text_color=C9D1D9&langs_count=8"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=muhamedhajajii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=DD0031&icon_color=DD0031&text_color=C9D1D9&ring_color=DD0031" width="49.5%"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedhajajii&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=DD0031&text_color=C9D1D9&langs_count=8" width="49.5%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedhajajii&theme=react&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=DD0031&currStreakLabel=DD0031&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=muhamedhajajii&theme=dark&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=DD0031&currStreakLabel=DD0031&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak Stats" width="95%"/>
 </div>
 
 <br/>
@@ -300,21 +294,7 @@ const muhamed = {
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="700">
-</div>
-
-<br/>
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhamedhajajii/muhamedhajajii/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+---
 
 <br/>
 
@@ -322,25 +302,13 @@ const muhamed = {
 
 <div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read%2C%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 <br/>
 
-## 🎵 Coding Soundtrack
-
-<div align="center">
-  
-  [![Spotify](https://novatorem-muhamedhajajii.vercel.app/api/spotify)](https://open.spotify.com/user/31k4xvlrkvn7wzzlgviibrmwqnj4)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+---
 
 <br/>
 
