@@ -26,7 +26,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <a href="https://github.com/muhamedhajajii">
-  <img align="center" alt="Coding" width="70%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img align="center" style="margin: auto ;display:inline-block;" alt="Coding" width="70%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </a>
 
 <br clear="right"/>
