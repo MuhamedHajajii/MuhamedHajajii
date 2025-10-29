@@ -271,30 +271,6 @@ const muhamed = {
 
 <br/>
 
----
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌟 Pinned Repositories
-
-<a href="https://github.com/muhamedhajajii?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamedhajajii&repo=repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=DD0031&icon_color=DD0031&text_color=C9D1D9" width="48%"/>
-</a>
-
-<p><i>💡 Replace "repo-name" with your actual repository names to showcase your best work!</i></p>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
