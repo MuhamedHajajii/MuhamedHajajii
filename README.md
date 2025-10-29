@@ -25,11 +25,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<a href="https://github.com/muhamedhajajii">
-  <img align="center" style="margin: auto ;display:inline-block;" alt="Coding" width="70%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</a>
+<div align="center">
+  <img alt="Coding" width="70%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
 
-<br clear="right"/>
+<br/>
 
 ```typescript
 const muhamed = {
@@ -71,7 +71,7 @@ const muhamed = {
 };
 ```
 
-<br clear="right"/>
+<br/>
 
 ## 🎯 Current Focus
 
@@ -269,6 +269,26 @@ const muhamed = {
 
 <br/>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌟 Pinned Repositories
+
+<a href="https://github.com/muhamedhajajii?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamedhajajii&repo=repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=DD0031&icon_color=DD0031&text_color=C9D1D9" width="48%"/>
+</a>
+
+<p><i>💡 Replace "repo-name" with your actual repository names to showcase your best work!</i></p>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -297,8 +317,6 @@ const muhamed = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhamedhajajii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="95%" alt="Trophy" />
 </div>
-
----
 
 <br/>
 
