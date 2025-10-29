@@ -18,6 +18,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 </div>
 
